@@ -13,7 +13,7 @@ const Ipv4 = () => {
     }, [])
     
   return (
-      <div>{ip4}</div>
+      <div>Ip4 : {ip4}</div>
   )
 }
 

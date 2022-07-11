@@ -12,7 +12,7 @@ const Ipv6 = () => {
     }, [])
 
   return (
-    <div>{ip6}</div>
+    <div>Ip6 : {ip6}</div>
   )
 }
 
